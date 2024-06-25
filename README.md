@@ -17,10 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/" target="_blank">
+ <a href="[https://instagram.com/](https://www.instagram.com/nutdanai_ml/)" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100004438357557" target="_blank">
