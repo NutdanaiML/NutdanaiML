@@ -10,7 +10,7 @@
   <samp>
     <a href="">「 My Profile 」</a>
     <br>
-    「 I am a full stack web application developer 」
+    「 What lies behind us and what lies before us are tiny matters compared to what lies within us. 」
     <br>
     <br>
   </samp>
